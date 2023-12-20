@@ -19,6 +19,9 @@ The following image demonstrates the web application's appearance:
 
 ![Horiseon Social Solution Services web application appearance](assets/images/web-application-appearance.png)
 
+Here is the link to the deployed application:
+https://sdavila210.github.io/Module-Challenge-1/
+
 ## Credits
 
 N/A
