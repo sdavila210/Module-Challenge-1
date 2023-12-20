@@ -13,6 +13,12 @@ N/A
 
 To use this webpage, you can click the navigation links in the header, and you can review the information in each section. The images meet accessibilty standards by using alt attributes to describe the images. 
 
+## Assets
+
+The following image demonstrates the web application's appearance:
+
+![Horiseon Social Solution Services web application appearance](assets/images/web-application-appearance.png)
+
 ## Credits
 
 N/A
