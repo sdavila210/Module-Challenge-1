@@ -24,7 +24,7 @@ https://sdavila210.github.io/Module-Challenge-1/
 
 ## Credits
 
-N/A
+Acknowledgments: Worked on project with Marisol Aranda
 
 ## License
 
